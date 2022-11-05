@@ -1,4 +1,4 @@
-For observing the I2C traffic, the Lab1 Firefly code is run on Adafruit QT Py RP2040 which is connected to APDS9960 sensor. This sensor generates the I2C traffic and the signals are captured on an oscilloscope. 
+For observing the I2C traffic, the Lab1 Firefly code is run on Adafruit QT Py RP2040 which is connected to APDS9960 sensor. This generates the I2C traffic and the signals are captured on an oscilloscope. 
 
 I2C signal capture using BNC to Double Alligator Clip test cable:
 

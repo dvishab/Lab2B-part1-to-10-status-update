@@ -11,6 +11,7 @@ I2C signal capture using BNC to Double Alligator Clip test cable:
 Signals can also be captured using Logic Analyser Probe:
 
 Logic Analyser Probe:
+
 ![LA_connector](https://user-images.githubusercontent.com/114099174/200093033-a9a4989e-dfcb-4c34-823f-727e25258352.png)
 
 

@@ -11,9 +11,9 @@
   </br>
 * Yellow signal (Channel 1) in the above pictures is the data (SDA)
 
-  Signals can also be captured using Logic Analyser Probe:
+-- Signals can also be captured using Logic Analyser Probe:
 
-  Logic Analyser Probes are useful to analyze the logic states (high/true/logic 1 or low/false/logic 0) of digital signals:
+-- Logic Analyser Probes are useful to analyze the logic states (high/true/logic 1 or low/false/logic 0) of digital signals:
 
 ![LA_connector](https://user-images.githubusercontent.com/114099174/200093033-a9a4989e-dfcb-4c34-823f-727e25258352.png)
 

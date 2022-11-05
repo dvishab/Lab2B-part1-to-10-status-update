@@ -1,6 +1,6 @@
 * For observing the I2C traffic, the Lab1 Firefly code is run on Adafruit QT Py RP2040 which is connected to APDS9960 sensor. This generates the I2C traffic and the signals are captured on an oscilloscope. 
 
-I2C signal capture using BNC to Double Alligator Clip test cable:
+  I2C signal capture using BNC to Double Alligator Clip test cable:
 
 ![I2C_traffic_img1](https://user-images.githubusercontent.com/114099174/200092513-9de696f3-642b-4b2b-a301-10b20495ec0b.jpeg)
 
@@ -8,13 +8,13 @@ I2C signal capture using BNC to Double Alligator Clip test cable:
 ![I2C_traffic_img2](https://user-images.githubusercontent.com/114099174/200092524-e14e3d75-e7d2-498d-b5a5-5f70e1cd702d.jpeg)
 
 
-Signals can also be captured using Logic Analyser Probe:
+  Signals can also be captured using Logic Analyser Probe:
 
-Logic Analyser Probes are useful to analyze the logic states (high/true/logic 1 or low/false/logic 0) of digital signals:
+  Logic Analyser Probes are useful to analyze the logic states (high/true/logic 1 or low/false/logic 0) of digital signals:
 
 ![LA_connector](https://user-images.githubusercontent.com/114099174/200093033-a9a4989e-dfcb-4c34-823f-727e25258352.png)
 
-Set the scope functionality to "Digital"
+  Set the scope functionality to "Digital"
 
 ![I2C_traffic_img3](https://user-images.githubusercontent.com/114099174/200092531-408ef535-65b5-4895-8600-b1d337c66d83.jpeg)
 

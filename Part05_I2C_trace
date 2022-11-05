@@ -1,1 +1,4 @@
-reget
+use your Lab 1 firefly code to generate ADPS9960 I2C traffic and display it on a lab oscilloscope
+I2C traffic is generated through APDS9960 by running the Lab1 Firefly code and the signals are observed on an oscilloscope.
+
+I2C signal capture using BNC to Double Alligator Clip test cable:

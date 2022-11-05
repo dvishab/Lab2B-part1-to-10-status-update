@@ -7,9 +7,9 @@
 
 ![I2C_traffic_img2](https://user-images.githubusercontent.com/114099174/200092524-e14e3d75-e7d2-498d-b5a5-5f70e1cd702d.jpeg)
 
-  Green signal (Channel 2) in the above pictures is the clock signal (SCL) 
+* Green signal (Channel 2) in the above pictures is the clock signal (SCL) 
   </br>
-  Yellow signal (Channel 1) in the above pictures is the data (SDA)
+* Yellow signal (Channel 1) in the above pictures is the data (SDA)
 
   Signals can also be captured using Logic Analyser Probe:
 
@@ -19,7 +19,10 @@
 
   Set the scope functionality to "Digital"
 
-![I2C_traffic_img3](https://user-images.githubusercontent.com/114099174/200092531-408ef535-65b5-4895-8600-b1d337c66d83.jpeg)
+![LA_scope_img1](https://user-images.githubusercontent.com/114099174/200097410-ee6de91a-8f28-482c-8b34-fc93fa410f13.jpeg)
 
 
-![I2C_traffic_img4](https://user-images.githubusercontent.com/114099174/200092537-7edd61fe-15ee-4548-904a-935843b36b27.jpeg)
+![LA_scope_img2](https://user-images.githubusercontent.com/114099174/200097420-b4349202-484c-4601-bd97-05158d2d86d4.jpeg)
+
+* Red waveform is the data signal (SDA)
+* Yellow waveform is the clock signal (SCL)

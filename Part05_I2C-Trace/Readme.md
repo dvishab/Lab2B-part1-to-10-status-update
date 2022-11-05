@@ -22,7 +22,5 @@
 ![LA_scope_img1](https://user-images.githubusercontent.com/114099174/200097410-ee6de91a-8f28-482c-8b34-fc93fa410f13.jpeg)
 
 
-![LA_scope_img2](https://user-images.githubusercontent.com/114099174/200097420-b4349202-484c-4601-bd97-05158d2d86d4.jpeg)
-
 * Red waveform is the data signal (SDA)
 * Yellow waveform is the clock signal (SCL)

@@ -7,6 +7,9 @@
 
 ![I2C_traffic_img2](https://user-images.githubusercontent.com/114099174/200092524-e14e3d75-e7d2-498d-b5a5-5f70e1cd702d.jpeg)
 
+  Green signal (Channel 2) in the above pictures is the clock signal (SCL) 
+  </br>
+  Yellow signal (Channel 1) in the above pictures is the data (SDA)
 
   Signals can also be captured using Logic Analyser Probe:
 

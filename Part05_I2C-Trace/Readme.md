@@ -17,7 +17,7 @@
 
 ![LA_connector](https://user-images.githubusercontent.com/114099174/200093033-a9a4989e-dfcb-4c34-823f-727e25258352.png)
 
-  Set the scope functionality to "Digital"
+- Set the scope functionality to "Digital"
 
 ![LA_scope_img1](https://user-images.githubusercontent.com/114099174/200097410-ee6de91a-8f28-482c-8b34-fc93fa410f13.jpeg)
 

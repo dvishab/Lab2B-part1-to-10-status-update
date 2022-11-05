@@ -1,3 +1,11 @@
+University of Pennsylvania, ESE 5190: Intro to Embedded Systems, Lab 1
+ 
+ Dvisha Kishore Bakarania
+ <br />
+ LinkedIn: [Dvisha Bakarania](https://www.linkedin.com/in/dvisha-bakarania-9370b2146?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BNtJBfZpDTEKluhukjP7uqg%3D%3D) 
+ <br />
+ Tested on: Windows 11 Home Version 21H2
+
 * For observing the I2C traffic, the Lab1 Firefly code is run on Adafruit QT Py RP2040 which is connected to APDS9960 sensor. This generates the I2C traffic and the signals are captured on an oscilloscope. 
 
   I2C signal capture using BNC to Double Alligator Clip test cable:

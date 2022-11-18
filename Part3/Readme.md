@@ -16,7 +16,12 @@ This section comprises of recording a boot press sequence, saving it on the lapt
 
 The C code is used to count the time between two boot presses, and the variable `counter` is printed on the console during the recording. A python script is used then to access the COM port to whcih RP2040 is connected to using the pySerial library.</br>
 
-The value printed on the console is read and saved in a file on the laptop by the Python script. After the recording is over for all the boot presses, the python script reads the delay (counter) values from the text file on the laptop and writes it to the console which is input to the RP2040 and replayed.
+The value printed on the console is read and saved in a file on the laptop by the Python script. After the recording is over for all the boot presses, the python script reads the delay (counter) values from the text file on the laptop and writes it to the console which is input to the RP2040 and replayed. 
+
+
+***Section Three***</br>
+In this section, we have used macros to record and save a sequence of boot presses on the laptop as well as to play it from the laptop. It is similar to the previous part except we use macros to instruct to record and re-play.
+
 
 
 

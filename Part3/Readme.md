@@ -22,6 +22,19 @@ The value printed on the console is read and saved in a file on the laptop by th
 ***Section Three***</br>
 In this section, we have used macros to record and save a sequence of boot presses on the laptop as well as to play it from the laptop. It is similar to the previous part except we use macros to instruct to record and re-play.
 
+A `counter` variable is used which measures the time between two consecutive boot presses. 
+
+An input `play_mode` is taken from the user based on whether the user wants to record a new sequence or play an already recorded sequence. The python script uses pySerial library to access the COM port of QT Py RP2040. 
+
+There are two `play_modes`: record `'r'` and play `'p'`. The user can input `'r'` to record a sequence of boot presses and save it to the laptop using the python script. Then on an input of `'p'`, this recorded sequence is read from the file saved on the laptop and wrote to the console by the script. 
+
+The Neopixel LED blinks accordingly.
+
+
+
+
+
+
 
 
 

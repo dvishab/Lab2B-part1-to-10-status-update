@@ -12,7 +12,7 @@ This entire recording is looped for replaying multiple times.
 
 
 ***Section Two***</br>
-This section comprises of recording a boot press sequence, saving it on the laptop, and replaying it from the laptop. For doing so, pySerial library is used to access the RP2040 through the COM port.</br>
+This section comprises of recording a boot press sequence, saving it on the laptop, and replaying it from the laptop. For doing so, `pySerial` library is used to access the RP2040 through the COM port.</br>
 
 The C code is used to count the time between two boot presses, and the variable `counter` is printed on the console during the recording. A python script is used then to access the COM port to whcih RP2040 is connected to using the pySerial library.</br>
 

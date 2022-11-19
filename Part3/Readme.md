@@ -32,6 +32,7 @@ The Neopixel LED blinks accordingly.
 
 https://user-images.githubusercontent.com/114099174/202823392-33ffd5cd-09bd-4296-97e6-fbfd5b09fb27.mp4
 
+The above video demonstrates the recording and playing using a macro.
 
 
 

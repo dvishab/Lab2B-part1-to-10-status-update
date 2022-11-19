@@ -73,6 +73,7 @@ if (!gpio_get(BOOT_PIN_NUM))
         sleep_ms(500);
     }
    
-    [i2c_logicanalyzer](https://user-images.githubusercontent.com/114099174/202829968-1ff3b136-40cb-44dd-98f0-93304d14b50c.jpg)
+   
+![i2c_logicanalyzer](https://user-images.githubusercontent.com/114099174/202829996-df2f3f64-d07a-4a37-840c-8a00320c6112.png)
 
     

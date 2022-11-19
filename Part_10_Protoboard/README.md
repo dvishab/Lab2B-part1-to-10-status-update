@@ -96,5 +96,4 @@ Demo of the prootboard  in the game mode:
 
 https://user-images.githubusercontent.com/114267693/202828258-e797c31c-6c2d-406a-97fb-2350c847ed9f.mp4
 
-part 10
 

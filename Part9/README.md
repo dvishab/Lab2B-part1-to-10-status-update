@@ -11,9 +11,9 @@ Run this experiment in both dark and light room settings (record initial ambient
 Report the observed 'jitter' based on misalignment with the free-running PWM module on the WS2012.
 
 
---We built on top of the lab 8 code. We read the ADPS RGB and brightness value and translated that to the LED brightness. 
+We built on top of the lab 8 code. We read the ADPS RGB and brightness value and translated that to the LED brightness. 
 
---The timestamps were measured using a simple timer implemented in software.
+The timestamps were measured using a simple timer implemented in software.
 
 The codes are attached.
 

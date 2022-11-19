@@ -1,4 +1,12 @@
 
+### TODO:
+
+- modify the PIO/DMA logic analyzer example to record a timestamped trace of an RP2040-ADPS9960 exchange while the BOOT button is pressed
+- with a partner, connect a second Qt Py to the Stemma Qt bus of an ADPS9960 that's attached to a first Qt Py running the Lab 1 Python code
+- record a trace of this exchange
+
+
+### Explanation
 1. In order to get familiar with the Logic Analyzer example we first run the example as it is.
 2. The code is then modified to read the i2c Traffic.
 3. The Pin instances are changed to read the data from the SDA lines from the sensor. The i2c pin on the QTPY Board is 22 and hence the pin instance is set to 22.

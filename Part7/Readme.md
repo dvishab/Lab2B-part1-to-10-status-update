@@ -74,10 +74,8 @@ pio_sm_set_consecutive_pindirs(pio, sm1, QTPY_BOOT_PIN_NUM, 1, false);
 5. Now the GPIO 21 i.e. the boot pin has been assigned to the PIO. 
 6. We will now read the value of the RX FIFI which contains the boot pin status.
 
-https://user-images.githubusercontent.com/114099174/202832727-c6378348-e6f4-436a-886f-8384dccb033d.mp4
-
-
-
 uint32_t pinval = pio_sm_get(pio, sm1);
+
+https://user-images.githubusercontent.com/114099174/202832727-c6378348-e6f4-436a-886f-8384dccb033d.mp4
 
 
